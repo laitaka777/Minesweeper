@@ -5,7 +5,7 @@ Minesweeper
 作成日: 2014年12月27日  
 
 #### 1. Build  
-minesweeper.cpp および minesweeper.h は  
+minesweeper.cpp および minesweeper.h は
 g++ (GCC) 4.8.2において以下のようなコマンドで  
 ビルドできます。  
 
