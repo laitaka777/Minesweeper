@@ -2,7 +2,7 @@ Minesweeper
 ===========
 
 作者: 平井芳孝  
-作成日: 2014年12月27日  
+作成日: 2014年12月28日  
 
 #### 1. Build  
 minesweeper.cpp および minesweeper.h は
