@@ -10,7 +10,7 @@ g++ (GCC) 4.8.2において以下のようなコマンドで
 ビルドできます。  
 
 ```
-$ g++ -Wall -O2 -std=c++11 
+$ g++ -Wall -O2 -std=c++11 minesweeper.cpp
 ```
 
 #### 2. Run  
